@@ -1,0 +1,19 @@
+*{
+    margin:0;
+}
+
+.header{
+    width: 100%; height: 15%; 
+    background-color: black;
+    
+}
+h2{ padding:1rem;
+    color:white; margin-left: 1rem; font-size: 1.3rem;
+}
+.main{
+    width: 100vw ; height: 70vh; 
+     background-color: grey;
+}
+img{
+    margin-top: 3rem; margin-left: 6rem;
+}
